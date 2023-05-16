@@ -6,7 +6,7 @@ _Resolve common static analysis issues discovered through 3rd party tools._
 
 ## Source
 
-[Github](https://github.com/openrewrite/rewrite-python/blob/main/src/main/resources/META-INF/rewrite/static-analysis-cleanup.yml), [Issue Tracker](https://github.com/openrewrite/rewrite-python/issues), [Maven Central](https://central.sonatype.com/artifact/org.openrewrite/rewrite-python/0.5.0-SNAPSHOT/jar)
+[GitHub](https://github.com/openrewrite/rewrite-python/blob/main/src/main/resources/META-INF/rewrite/static-analysis-cleanup.yml), [Issue Tracker](https://github.com/openrewrite/rewrite-python/issues), [Maven Central](https://central.sonatype.com/artifact/org.openrewrite/rewrite-python/0.5.0-SNAPSHOT/jar)
 
 * groupId: org.openrewrite
 * artifactId: rewrite-python

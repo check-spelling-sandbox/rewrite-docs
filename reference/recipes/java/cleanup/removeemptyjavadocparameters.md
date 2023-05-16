@@ -1,12 +1,12 @@
-# Remove JavaDoc `@params`, `@return`, and `@throws` with no description
+# Remove JavaDoc `@param`, `@return`, and `@throws` with no description
 
 **org.openrewrite.java.cleanup.RemoveEmptyJavaDocParameters**
 
-_Removes `@params`, `@return`, and `@throws` with no description from JavaDocs._
+_Removes `@param`, `@return`, and `@throws` with no description from JavaDocs._
 
 ## Source
 
-[Github](https://github.com/openrewrite/rewrite/blob/main/rewrite-java/src/main/java/org/openrewrite/java/cleanup/RemoveEmptyJavaDocParameters.java), [Issue Tracker](https://github.com/openrewrite/rewrite/issues), [Maven Central](https://central.sonatype.com/artifact/org.openrewrite/rewrite-java/7.40.6/jar)
+[GitHub](https://github.com/openrewrite/rewrite/blob/main/rewrite-java/src/main/java/org/openrewrite/java/cleanup/RemoveEmptyJavaDocParameters.java), [Issue Tracker](https://github.com/openrewrite/rewrite/issues), [Maven Central](https://central.sonatype.com/artifact/org.openrewrite/rewrite-java/7.40.6/jar)
 
 * groupId: org.openrewrite
 * artifactId: rewrite-java

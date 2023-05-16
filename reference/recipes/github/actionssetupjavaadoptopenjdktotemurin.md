@@ -10,7 +10,7 @@ _Adopt OpenJDK got moved to Eclipse Temurin and won't be updated anymore. It is 
 
 ## Source
 
-[Github](https://github.com/openrewrite/rewrite-github-actions/blob/main/src/main/java/org/openrewrite/github/ActionsSetupJavaAdoptOpenJDKToTemurin.java), [Issue Tracker](https://github.com/openrewrite/rewrite-github-actions/issues), [Maven Central](https://central.sonatype.com/artifact/org.openrewrite.recipe/rewrite-github-actions/1.20.0/jar)
+[GitHub](https://github.com/openrewrite/rewrite-github-actions/blob/main/src/main/java/org/openrewrite/github/ActionsSetupJavaAdoptOpenJDKToTemurin.java), [Issue Tracker](https://github.com/openrewrite/rewrite-github-actions/issues), [Maven Central](https://central.sonatype.com/artifact/org.openrewrite.recipe/rewrite-github-actions/1.20.0/jar)
 
 * groupId: org.openrewrite.recipe
 * artifactId: rewrite-github-actions

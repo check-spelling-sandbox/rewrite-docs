@@ -6,7 +6,7 @@ _Install a CircleCI [orb](https://circleci.com/docs/2.0/orb-intro/) if it is not
 
 ## Source
 
-[Github](https://github.com/openrewrite/rewrite-circleci/blob/main/src/main/java/org/openrewrite/circleci/InstallOrb.java), [Issue Tracker](https://github.com/openrewrite/rewrite-circleci/issues), [Maven Central](https://central.sonatype.com/artifact/org.openrewrite.recipe/rewrite-circleci/1.20.0/jar)
+[GitHub](https://github.com/openrewrite/rewrite-circleci/blob/main/src/main/java/org/openrewrite/circleci/InstallOrb.java), [Issue Tracker](https://github.com/openrewrite/rewrite-circleci/issues), [Maven Central](https://central.sonatype.com/artifact/org.openrewrite.recipe/rewrite-circleci/1.20.0/jar)
 
 * groupId: org.openrewrite.recipe
 * artifactId: rewrite-circleci

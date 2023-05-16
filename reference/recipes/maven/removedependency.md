@@ -6,7 +6,7 @@ _Removes a single dependency from the <dependencies> section of the pom.xml._
 
 ## Source
 
-[Github](https://github.com/openrewrite/rewrite/blob/main/rewrite-maven/src/main/java/org/openrewrite/maven/RemoveDependency.java), [Issue Tracker](https://github.com/openrewrite/rewrite/issues), [Maven Central](https://central.sonatype.com/artifact/org.openrewrite/rewrite-maven/7.40.6/jar)
+[GitHub](https://github.com/openrewrite/rewrite/blob/main/rewrite-maven/src/main/java/org/openrewrite/maven/RemoveDependency.java), [Issue Tracker](https://github.com/openrewrite/rewrite/issues), [Maven Central](https://central.sonatype.com/artifact/org.openrewrite/rewrite-maven/7.40.6/jar)
 
 * groupId: org.openrewrite
 * artifactId: rewrite-maven
@@ -25,7 +25,7 @@ _Removes a single dependency from the <dependencies> section of the pom.xml._
 | -- | -- | -- |
 | `String` | groupId | The first part of a dependency coordinate 'com.google.guava:guava:VERSION'. |
 | `String` | artifactId | The second part of a dependency coordinate 'com.google.guava:guava:VERSION'. |
-| `String` | scope | *Optional*. Only remove dependencies if they are in this scope. If 'runtime', this willalso remove dependencies in the 'compile' scope because 'compile' dependencies are part of the runtime dependency set |
+| `String` | scope | *Optional*. Only remove dependencies if they are in this scope. If 'runtime', this will also remove dependencies in the 'compile' scope because 'compile' dependencies are part of the runtime dependency set |
 
 
 ## Usage

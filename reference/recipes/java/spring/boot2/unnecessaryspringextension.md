@@ -6,7 +6,7 @@ _`@SpringBootTest` and all test slice annotations already applies `@SpringExtens
 
 ## Source
 
-[Github](https://github.com/openrewrite/rewrite-spring/blob/main/src/main/java/org/openrewrite/java/spring/boot2/UnnecessarySpringExtension.java), [Issue Tracker](https://github.com/openrewrite/rewrite-spring/issues), [Maven Central](https://central.sonatype.com/artifact/org.openrewrite.recipe/rewrite-spring/4.36.0/jar)
+[GitHub](https://github.com/openrewrite/rewrite-spring/blob/main/src/main/java/org/openrewrite/java/spring/boot2/UnnecessarySpringExtension.java), [Issue Tracker](https://github.com/openrewrite/rewrite-spring/issues), [Maven Central](https://central.sonatype.com/artifact/org.openrewrite.recipe/rewrite-spring/4.36.0/jar)
 
 * groupId: org.openrewrite.recipe
 * artifactId: rewrite-spring
@@ -16,7 +16,7 @@ _`@SpringBootTest` and all test slice annotations already applies `@SpringExtens
 * [Tyler Van Gorder](tkvangorder@users.noreply.github.com)
 * [Jonathan Schneider](jkschneider@gmail.com)
 * [nbruno](nbruno@users.noreply.github.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 * [Aaron Gershman](aegershman@gmail.com)
 
 

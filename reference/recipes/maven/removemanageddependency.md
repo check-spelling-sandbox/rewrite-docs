@@ -6,7 +6,7 @@ _Removes a single managed dependency from the <dependencyManagement><dependencie
 
 ## Source
 
-[Github](https://github.com/openrewrite/rewrite/blob/main/rewrite-maven/src/main/java/org/openrewrite/maven/RemoveManagedDependency.java), [Issue Tracker](https://github.com/openrewrite/rewrite/issues), [Maven Central](https://central.sonatype.com/artifact/org.openrewrite/rewrite-maven/7.40.6/jar)
+[GitHub](https://github.com/openrewrite/rewrite/blob/main/rewrite-maven/src/main/java/org/openrewrite/maven/RemoveManagedDependency.java), [Issue Tracker](https://github.com/openrewrite/rewrite/issues), [Maven Central](https://central.sonatype.com/artifact/org.openrewrite/rewrite-maven/7.40.6/jar)
 
 * groupId: org.openrewrite
 * artifactId: rewrite-maven
@@ -22,7 +22,7 @@ _Removes a single managed dependency from the <dependencyManagement><dependencie
 | -- | -- | -- |
 | `String` | groupId | The first part of a managed dependency coordinate 'com.google.guava:guava:VERSION'. |
 | `String` | artifactId | The second part of a managed dependency coordinate 'com.google.guava:guava:VERSION'. |
-| `String` | scope | *Optional*. Only remove managed dependencies if they are in this scope. If 'runtime', this willalso remove managed dependencies in the 'compile' scope because 'compile' dependencies are part of the runtime dependency set |
+| `String` | scope | *Optional*. Only remove managed dependencies if they are in this scope. If 'runtime', this will also remove managed dependencies in the 'compile' scope because 'compile' dependencies are part of the runtime dependency set |
 
 
 ## Usage

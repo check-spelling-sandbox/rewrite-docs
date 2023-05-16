@@ -2,7 +2,7 @@
 
 **org.openrewrite.cloudsuitability.FindJcaAnnotations**
 
-_Java messaging can present problems in TAS due to its emphemerality. Convert to a backing service or use TKG._
+_Java messaging can present problems in TAS due to its ephemerality. Convert to a backing service or use TKG._
 
 ### Tags
 
@@ -10,7 +10,7 @@ _Java messaging can present problems in TAS due to its emphemerality. Convert to
 
 ## Source
 
-[Github](https://github.com/openrewrite/rewrite-cloud-suitability-analyzer/blob/main/src/main/resources/META-INF/rewrite/finders.yml), [Issue Tracker](https://github.com/openrewrite/rewrite-cloud-suitability-analyzer/issues), [Maven Central](https://central.sonatype.com/artifact/org.openrewrite.recipe/rewrite-cloud-suitability-analyzer/1.6.0/jar)
+[GitHub](https://github.com/openrewrite/rewrite-cloud-suitability-analyzer/blob/main/src/main/resources/META-INF/rewrite/finders.yml), [Issue Tracker](https://github.com/openrewrite/rewrite-cloud-suitability-analyzer/issues), [Maven Central](https://central.sonatype.com/artifact/org.openrewrite.recipe/rewrite-cloud-suitability-analyzer/1.6.0/jar)
 
 * groupId: org.openrewrite.recipe
 * artifactId: rewrite-cloud-suitability-analyzer
@@ -102,7 +102,7 @@ mvn -U org.openrewrite.maven:rewrite-maven-plugin:run \
 type: specs.openrewrite.org/v1beta/recipe
 name: org.openrewrite.cloudsuitability.FindJcaAnnotations
 displayName: Find uses of JCA
-description: Java messaging can present problems in TAS due to its emphemerality. Convert to a backing service or use TKG.
+description: Java messaging can present problems in TAS due to its ephemerality. Convert to a backing service or use TKG.
 tags:
   - java-jcaAnnotations
 recipeList:

@@ -6,7 +6,7 @@ _Upgrade to Spring Boot 2.5 from any prior 2.x version._
 
 ## Source
 
-[Github](https://github.com/openrewrite/rewrite-spring/blob/main/src/main/resources/META-INF/rewrite/spring-boot-25.yml), [Issue Tracker](https://github.com/openrewrite/rewrite-spring/issues), [Maven Central](https://central.sonatype.com/artifact/org.openrewrite.recipe/rewrite-spring/4.36.0/jar)
+[GitHub](https://github.com/openrewrite/rewrite-spring/blob/main/src/main/resources/META-INF/rewrite/spring-boot-25.yml), [Issue Tracker](https://github.com/openrewrite/rewrite-spring/issues), [Maven Central](https://central.sonatype.com/artifact/org.openrewrite.recipe/rewrite-spring/4.36.0/jar)
 
 * groupId: org.openrewrite.recipe
 * artifactId: rewrite-spring
@@ -16,7 +16,7 @@ _Upgrade to Spring Boot 2.5 from any prior 2.x version._
 * [Jonathan Schneider](jkschneider@gmail.com)
 * [Fabian Krüger](56278322+fabapp2@users.noreply.github.com)
 * [Patrick](patway99@gmail.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 * [Sam Snyder](sam@moderne.io)
 * [Kyle Scully](scullykns@gmail.com)
 

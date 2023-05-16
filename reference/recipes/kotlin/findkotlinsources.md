@@ -6,7 +6,7 @@ _Use data table to collect source files types and counts of files with extension
 
 ## Source
 
-[Github](https://github.com/openrewrite/rewrite-kotlin/blob/main/src/main/java/org/openrewrite/kotlin/FindKotlinSources.java), [Issue Tracker](https://github.com/openrewrite/rewrite-kotlin/issues), [Maven Central](https://central.sonatype.com/artifact/org.openrewrite/rewrite-kotlin/0.4.1/jar)
+[GitHub](https://github.com/openrewrite/rewrite-kotlin/blob/main/src/main/java/org/openrewrite/kotlin/FindKotlinSources.java), [Issue Tracker](https://github.com/openrewrite/rewrite-kotlin/issues), [Maven Central](https://central.sonatype.com/artifact/org.openrewrite/rewrite-kotlin/0.4.1/jar)
 
 * groupId: org.openrewrite
 * artifactId: rewrite-kotlin
