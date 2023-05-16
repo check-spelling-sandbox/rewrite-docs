@@ -2,7 +2,7 @@
 
 **org.openrewrite.java.recipes.SetDefaultEstimatedEffortPerOccurrence**
 
-_Retrofit recipes with a deafult estimated effort per occurrence._
+_Retrofit recipes with a default estimated effort per occurrence._
 
 ## Source
 
