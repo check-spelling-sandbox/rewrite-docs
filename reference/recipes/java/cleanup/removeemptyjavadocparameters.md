@@ -1,8 +1,8 @@
-# Remove JavaDoc `@params`, `@return`, and `@throws` with no description
+# Remove JavaDoc `@param`, `@return`, and `@throws` with no description
 
 **org.openrewrite.java.cleanup.RemoveEmptyJavaDocParameters**
 
-_Removes `@params`, `@return`, and `@throws` with no description from JavaDocs._
+_Removes `@param`, `@return`, and `@throws` with no description from JavaDocs._
 
 ## Source
 

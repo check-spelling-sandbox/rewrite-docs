@@ -58,7 +58,7 @@ _Resolve common static analysis issues discovered, apply best practices, format 
 * [Redundant file creation](./redundantfilecreation.md)
 * [Reformat local variable names to camelCase](./renamelocalvariablestocamelcase.md)
 * [Reformat private field names to camelCase](./renameprivatefieldstocamelcase.md)
-* [Remove JavaDoc `@params`, `@return`, and `@throws` with no description](./removeemptyjavadocparameters.md)
+* [Remove JavaDoc `@param`, `@return`, and `@throws` with no description](./removeemptyjavadocparameters.md)
 * [Remove Nullable and CheckForNull annotations from primitives](./unnecessaryprimitiveannotations.md)
 * [Remove `Object.finalize()` invocations](./removecallstoobjectfinalize.md)
 * [Remove `System.out#println` statements](./removesystemoutprintln.md)
