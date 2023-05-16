@@ -2,7 +2,7 @@
 
 **org.openrewrite.cloudsuitability.FindJcaAnnotations**
 
-_Java messaging can present problems in TAS due to its emphemerality. Convert to a backing service or use TKG._
+_Java messaging can present problems in TAS due to its ephemerality. Convert to a backing service or use TKG._
 
 ### Tags
 
@@ -102,7 +102,7 @@ mvn -U org.openrewrite.maven:rewrite-maven-plugin:run \
 type: specs.openrewrite.org/v1beta/recipe
 name: org.openrewrite.cloudsuitability.FindJcaAnnotations
 displayName: Find uses of JCA
-description: Java messaging can present problems in TAS due to its emphemerality. Convert to a backing service or use TKG.
+description: Java messaging can present problems in TAS due to its ephemerality. Convert to a backing service or use TKG.
 tags:
   - java-jcaAnnotations
 recipeList:
