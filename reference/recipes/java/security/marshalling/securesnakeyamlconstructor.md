@@ -6,7 +6,7 @@ _See the [paper](https://github.com/mbechler/marshalsec) on this subject._
 
 ## Source
 
-[Github](https://github.com/openrewrite/rewrite-java-security/blob/main/src/main/java/org/openrewrite/java/security/marshalling/SecureSnakeYamlConstructor.java), [Issue Tracker](https://github.com/openrewrite/rewrite-java-security/issues), [Maven Central](https://central.sonatype.com/artifact/org.openrewrite.recipe/rewrite-java-security/1.25.0/jar)
+[GitHub](https://github.com/openrewrite/rewrite-java-security/blob/main/src/main/java/org/openrewrite/java/security/marshalling/SecureSnakeYamlConstructor.java), [Issue Tracker](https://github.com/openrewrite/rewrite-java-security/issues), [Maven Central](https://central.sonatype.com/artifact/org.openrewrite.recipe/rewrite-java-security/1.25.0/jar)
 
 * groupId: org.openrewrite.recipe
 * artifactId: rewrite-java-security

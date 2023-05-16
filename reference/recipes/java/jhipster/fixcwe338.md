@@ -6,7 +6,7 @@ _Use a cryptographically strong pseudo-random number generator (PRNG)._
 
 ## Source
 
-[Github](https://github.com/openrewrite/rewrite-jhipster/blob/main/src/main/java/org/openrewrite/java/jhipster/FixCwe338.java), [Issue Tracker](https://github.com/openrewrite/rewrite-jhipster/issues), [Maven Central](https://central.sonatype.com/artifact/org.openrewrite.recipe/rewrite-jhipster/1.20.0/jar)
+[GitHub](https://github.com/openrewrite/rewrite-jhipster/blob/main/src/main/java/org/openrewrite/java/jhipster/FixCwe338.java), [Issue Tracker](https://github.com/openrewrite/rewrite-jhipster/issues), [Maven Central](https://central.sonatype.com/artifact/org.openrewrite.recipe/rewrite-jhipster/1.20.0/jar)
 
 * groupId: org.openrewrite.recipe
 * artifactId: rewrite-jhipster

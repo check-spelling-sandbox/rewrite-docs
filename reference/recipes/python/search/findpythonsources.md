@@ -6,7 +6,7 @@ _Use data table to collect source files types and counts of files with extension
 
 ## Source
 
-[Github](https://github.com/openrewrite/rewrite-python/blob/main/src/main/java/org/openrewrite/python/search/FindPythonSources.java), [Issue Tracker](https://github.com/openrewrite/rewrite-python/issues), [Maven Central](https://central.sonatype.com/artifact/org.openrewrite/rewrite-python/0.4.0/jar)
+[GitHub](https://github.com/openrewrite/rewrite-python/blob/main/src/main/java/org/openrewrite/python/search/FindPythonSources.java), [Issue Tracker](https://github.com/openrewrite/rewrite-python/issues), [Maven Central](https://central.sonatype.com/artifact/org.openrewrite/rewrite-python/0.4.0/jar)
 
 * groupId: org.openrewrite
 * artifactId: rewrite-python

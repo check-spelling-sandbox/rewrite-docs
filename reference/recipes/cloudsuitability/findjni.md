@@ -6,7 +6,7 @@ _A few conditions have to be met to make JNI calls._
 
 ## Source
 
-[Github](https://github.com/openrewrite/rewrite-cloud-suitability-analyzer/blob/main/src/main/java/org/openrewrite/cloudsuitability/FindJni.java), [Issue Tracker](https://github.com/openrewrite/rewrite-cloud-suitability-analyzer/issues), [Maven Central](https://central.sonatype.com/artifact/org.openrewrite.recipe/rewrite-cloud-suitability-analyzer/1.6.0/jar)
+[GitHub](https://github.com/openrewrite/rewrite-cloud-suitability-analyzer/blob/main/src/main/java/org/openrewrite/cloudsuitability/FindJni.java), [Issue Tracker](https://github.com/openrewrite/rewrite-cloud-suitability-analyzer/issues), [Maven Central](https://central.sonatype.com/artifact/org.openrewrite.recipe/rewrite-cloud-suitability-analyzer/1.6.0/jar)
 
 * groupId: org.openrewrite.recipe
 * artifactId: rewrite-cloud-suitability-analyzer

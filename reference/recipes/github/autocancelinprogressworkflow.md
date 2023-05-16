@@ -6,7 +6,7 @@ _When a workflow is already running and would be triggered again, cancel the exi
 
 ## Source
 
-[Github](https://github.com/openrewrite/rewrite-github-actions/blob/main/src/main/java/org/openrewrite/github/AutoCancelInProgressWorkflow.java), [Issue Tracker](https://github.com/openrewrite/rewrite-github-actions/issues), [Maven Central](https://central.sonatype.com/artifact/org.openrewrite.recipe/rewrite-github-actions/1.20.0/jar)
+[GitHub](https://github.com/openrewrite/rewrite-github-actions/blob/main/src/main/java/org/openrewrite/github/AutoCancelInProgressWorkflow.java), [Issue Tracker](https://github.com/openrewrite/rewrite-github-actions/issues), [Maven Central](https://central.sonatype.com/artifact/org.openrewrite.recipe/rewrite-github-actions/1.20.0/jar)
 
 * groupId: org.openrewrite.recipe
 * artifactId: rewrite-github-actions
@@ -16,7 +16,7 @@ _When a workflow is already running and would be triggered again, cancel the exi
 
 | Type | Name | Description |
 | -- | -- | -- |
-| `String` | accessToken | *Optional*. Optionally provide the key name of a repository or organization secret that contains a Github personal access token with permission to cancel workflows. |
+| `String` | accessToken | *Optional*. Optionally provide the key name of a repository or organization secret that contains a GitHub personal access token with permission to cancel workflows. |
 
 
 ## Usage

@@ -6,7 +6,7 @@ _Use `@io.smallrye.common.annotation.Identifier` on default kafka broker configu
 
 ## Source
 
-[Github](https://github.com/openrewrite/rewrite-quarkus/blob/main/src/main/java/org/openrewrite/quarkus/quarkus2/UseIdentifierOnDefaultKafkaBroker.java), [Issue Tracker](https://github.com/openrewrite/rewrite-quarkus/issues), [Maven Central](https://central.sonatype.com/artifact/org.openrewrite.recipe/rewrite-quarkus/1.19.0/jar)
+[GitHub](https://github.com/openrewrite/rewrite-quarkus/blob/main/src/main/java/org/openrewrite/quarkus/quarkus2/UseIdentifierOnDefaultKafkaBroker.java), [Issue Tracker](https://github.com/openrewrite/rewrite-quarkus/issues), [Maven Central](https://central.sonatype.com/artifact/org.openrewrite.recipe/rewrite-quarkus/1.19.0/jar)
 
 * groupId: org.openrewrite.recipe
 * artifactId: rewrite-quarkus
