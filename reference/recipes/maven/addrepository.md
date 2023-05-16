@@ -26,7 +26,7 @@ _Adds a new Maven Repository or Update a matching repository._
 | `String` | layout | *Optional*. Repository layout |
 | `Boolean` | snapshotsEnabled | *Optional*. Snapshots from the repository are available |
 | `String` | snapshotsChecksumPolicy | *Optional*. Snapshots checksum policy |
-| `String` | snapshotsUpdatePolicy | *Optional*. Snapshots update policy policy |
+| `String` | snapshotsUpdatePolicy | *Optional*. Snapshots update policy |
 | `Boolean` | releasesEnabled | *Optional*. Releases from the repository are available |
 | `String` | releasesChecksumPolicy | *Optional*. Releases checksum policy |
 | `String` | releasesUpdatePolicy | *Optional*. Releases update policy |
