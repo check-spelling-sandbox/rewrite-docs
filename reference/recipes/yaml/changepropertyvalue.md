@@ -22,7 +22,7 @@ _Change a YAML property. Nested YAML mappings are interpreted as dot separated p
 | `String` | propertyKey | The key to look for. Glob is supported. |
 | `String` | newValue | The new value to be used for key specified by `propertyKey`. |
 | `String` | oldValue | *Optional*. Only change the property value if it matches the configured `oldValue`. |
-| `Boolean` | regex | *Optional*. Default false. If enabled, `oldValue` will be interepreted as a Regular Expression, and capture group contents will be available in `newValue` |
+| `Boolean` | regex | *Optional*. Default false. If enabled, `oldValue` will be interpreted as a Regular Expression, and capture group contents will be available in `newValue` |
 | `Boolean` | relaxedBinding | *Optional*. Whether to match the `propertyKey` using [relaxed binding](https://docs.spring.io/spring-boot/docs/2.5.6/reference/html/features.html#features.external-config.typesafe-configuration-properties.relaxed-binding) rules. Default is `true`. Set to `false`  to use exact matching. |
 
 

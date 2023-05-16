@@ -24,7 +24,7 @@ _Change a property value leaving the key intact._
 | `String` | propertyKey | The name of the property key whose value is to be changed. |
 | `String` | newValue | The new value to be used for key specified by `propertyKey`. |
 | `String` | oldValue | *Optional*. Only change the property value if it matches the configured `oldValue`. |
-| `Boolean` | regex | *Optional*. Default false. If enabled, `oldValue` will be interepreted as a Regular Expression, and capture group contents will be available in `newValue` |
+| `Boolean` | regex | *Optional*. Default false. If enabled, `oldValue` will be interpreted as a Regular Expression, and capture group contents will be available in `newValue` |
 | `Boolean` | relaxedBinding | *Optional*. Whether to match the `propertyKey` using [relaxed binding](https://docs.spring.io/spring-boot/docs/2.5.6/reference/html/features.html#features.external-config.typesafe-configuration-properties.relaxed-binding) rules. Default is `true`. Set to `false`  to use exact matching. |
 | `String` | fileMatcher | *Optional*. Matching files will be modified. This is a glob expression. |
 
