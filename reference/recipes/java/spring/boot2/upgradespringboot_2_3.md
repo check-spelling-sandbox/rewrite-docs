@@ -24,7 +24,7 @@ _Migrate applications to the latest Spring Boot 2.3 release. This recipe will mo
 * [Sam Snyder](sam@moderne.io)
 * [Jonathan Schneider](jkschneider@gmail.com)
 * [Jonathan Schnéider](jkschneider@gmail.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 
 
 ## Usage

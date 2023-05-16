@@ -18,7 +18,7 @@ _Migrate applications to the latest Spring Framework 5.3 release._
 * [Jonathan Schnéider](jkschneider@gmail.com)
 * [traceyyoshima](tracey.yoshima@gmail.com)
 * [Jonathan Schneider](jkschneider@gmail.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 
 
 ## Usage

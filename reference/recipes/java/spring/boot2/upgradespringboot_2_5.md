@@ -16,7 +16,7 @@ _Upgrade to Spring Boot 2.5 from any prior 2.x version._
 * [Jonathan Schneider](jkschneider@gmail.com)
 * [Fabian Krüger](56278322+fabapp2@users.noreply.github.com)
 * [Patrick](patway99@gmail.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 * [Sam Snyder](sam@moderne.io)
 * [Kyle Scully](scullykns@gmail.com)
 

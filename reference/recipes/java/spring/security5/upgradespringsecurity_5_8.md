@@ -23,7 +23,7 @@ _Migrate applications to the latest Spring Security 5.8 release. This recipe wil
 * [Johannes Jank](johannes.wengert@googlemail.com)
 * [Jonathan Schnéider](jkschneider@gmail.com)
 * [Sam Snyder](sam@moderne.io)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 
 
 ## Usage

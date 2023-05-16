@@ -15,7 +15,7 @@ _Replaces `@ExtendWith(SpringRunner.class)` and `@ContextConfiguration` with `@S
 ## Contributors
 * [nbruno](nbruno@users.noreply.github.com)
 * [Jonathan Schnéider](jkschneider@gmail.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 
 
 ## Usage

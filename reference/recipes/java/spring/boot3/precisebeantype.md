@@ -17,7 +17,7 @@ _Replace Bean method return types with concrete types being returned. This is re
 * [Patrick](patway99@gmail.com)
 * [Jonathan Schnéider](jkschneider@gmail.com)
 * [Kyle Scully](scullykns@gmail.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 
 
 ## Usage

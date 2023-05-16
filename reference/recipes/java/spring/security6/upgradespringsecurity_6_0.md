@@ -20,7 +20,7 @@ _Migrate applications to the latest Spring Security 6.0 release. This recipe wil
 ## Contributors
 * [Kun Li](122563761+kunli2@users.noreply.github.com)
 * [Knut Wannheden](knut@moderne.io)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 
 
 ## Usage

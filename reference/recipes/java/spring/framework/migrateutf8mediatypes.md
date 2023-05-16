@@ -15,7 +15,7 @@ _Spring Web `MediaType#APPLICATION_JSON_UTF8` and `MediaType#APPLICATION_PROBLEM
 ## Contributors
 * [Jonathan Schneider](jkschneider@gmail.com)
 * [Patrick](patway99@gmail.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 * [Aaron Gershman](aegershman@gmail.com)
 
 

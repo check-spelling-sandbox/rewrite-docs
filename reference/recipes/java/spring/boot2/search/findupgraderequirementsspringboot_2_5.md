@@ -22,7 +22,7 @@ _Looks for a series of patterns that have not yet had auto-remediation recipes d
 * [Jonathan Schneider](jkschneider@gmail.com)
 * [Alex Boyko](aboyko@pivotal.io)
 * [Tyler Van Gorder](tkvangorder@users.noreply.github.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 * [Kyle Scully](scullykns@gmail.com)
 
 

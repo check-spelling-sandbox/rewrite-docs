@@ -15,7 +15,7 @@ _Upgrade to Spring Boot 2.7_
 ## Contributors
 * [Alex Boyko](aboyko@vmware.com)
 * [Jonathan Schnéider](jkschneider@gmail.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 * [Patrick Way](pway99@users.noreply.github.com)
 * [Sam Snyder](sam@moderne.io)
 * [Patrick](patway99@gmail.com)

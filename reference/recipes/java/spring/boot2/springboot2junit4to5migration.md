@@ -27,7 +27,7 @@ _This recipe will migrate a Spring Boot application's tests from JUnit 4 to JUni
 * [Aaron Gershman](aegershman@gmail.com)
 * [Jonathan Schnéider](jkschneider@gmail.com)
 * [traceyyoshima](tracey.yoshima@gmail.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 * [Patrick](patway99@gmail.com)
 * [Sam Snyder](sam@moderne.io)
 

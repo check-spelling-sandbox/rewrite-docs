@@ -15,7 +15,7 @@ _Methods to set `DataSize` with primitive arguments were deprecated in 2.1 and r
 ## Contributors
 * [traceyyoshima](tracey.yoshima@gmail.com)
 * [Jonathan Schnéider](jkschneider@gmail.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 
 
 ## Usage

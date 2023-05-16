@@ -17,7 +17,7 @@ _Class having `@Bean` annotation over any methods but missing `@Configuration` a
 * [Alex Boyko](aboyko@vmware.com)
 * [Jonathan Schnéider](jkschneider@gmail.com)
 * [Knut Wannheden](knut@moderne.io)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 
 
 ## Usage

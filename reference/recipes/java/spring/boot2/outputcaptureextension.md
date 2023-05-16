@@ -19,7 +19,7 @@ _Use the JUnit Jupiter extension instead of JUnit 4 rule._
 * [traceyyoshima](tracey.yoshima@gmail.com)
 * [Patrick](patway99@gmail.com)
 * [Sam Snyder](sam@moderne.io)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 
 
 ## Usage

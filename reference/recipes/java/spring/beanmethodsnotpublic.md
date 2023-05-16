@@ -19,7 +19,7 @@ _Remove public modifier from `@Bean` methods. They no longer have to be public v
 * [Patrick Way](pway99@users.noreply.github.com)
 * [Aaron Gershman](aegershman@gmail.com)
 * [Tracey Yoshima](tracey.yoshima@gmail.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 
 
 ## Usage

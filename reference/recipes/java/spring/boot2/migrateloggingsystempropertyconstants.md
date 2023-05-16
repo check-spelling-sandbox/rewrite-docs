@@ -18,7 +18,7 @@ _Replaces field and static access of deprecated fields in `LoggingSystemProperti
 * [Aaron Gershman](aegershman@gmail.com)
 * [Patrick](patway99@gmail.com)
 * [Jonathan Schnéider](jkschneider@gmail.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 
 
 ## Usage

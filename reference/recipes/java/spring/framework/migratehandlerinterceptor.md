@@ -14,7 +14,7 @@ _Deprecated as of 5.3 in favor of implementing `HandlerInterceptor` and/or `Asyn
 
 ## Contributors
 * [Jonathan Schneider](jkschneider@gmail.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 
 
 ## Usage

@@ -14,7 +14,7 @@ _Remove any calls matching `AuthenticationEntryPointFailureHandler.setRethrowAut
 
 ## Contributors
 * [Knut Wannheden](knut@moderne.io)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 
 
 ## Usage

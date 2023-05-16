@@ -16,7 +16,7 @@ _Equivalent constructors in `JpaSort` were deprecated in Spring Data 2.3._
 * [traceyyoshima](tracey.yoshima@gmail.com)
 * [Kun Li](kun@moderne.io)
 * [Jonathan Schneider](jkschneider@gmail.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 
 
 ## Usage

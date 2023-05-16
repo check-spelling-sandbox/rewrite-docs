@@ -16,7 +16,7 @@ _As of Spring-Framework 5.3 `InstantiationAwareBeanPostProcessorAdapter` is depr
 * [Patrick](patway99@gmail.com)
 * [Jonathan Schnéider](jkschneider@gmail.com)
 * [traceyyoshima](tracey.yoshima@gmail.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 
 
 ## Usage

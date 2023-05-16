@@ -21,7 +21,7 @@ _Migrate applications to the latest Spring Boot 2.1 release. This recipe will mo
 * [traceyyoshima](tracey.yoshima@gmail.com)
 * [Jonathan Schnéider](jkschneider@gmail.com)
 * [Jonathan Schneider](jkschneider@gmail.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 
 
 ## Usage

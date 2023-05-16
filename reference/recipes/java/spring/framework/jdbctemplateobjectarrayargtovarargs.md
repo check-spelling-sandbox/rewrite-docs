@@ -15,7 +15,7 @@ _`JdbcTemplate` signatures with `Object[]` arguments are deprecated, in favor of
 ## Contributors
 * [Patrick Way](pway99@users.noreply.github.com)
 * [Jonathan Schnéider](jkschneider@gmail.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 * [Patrick](patway99@gmail.com)
 
 

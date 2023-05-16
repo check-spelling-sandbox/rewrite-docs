@@ -16,7 +16,7 @@ _`@SpringBootTest` and all test slice annotations already applies `@SpringExtens
 * [Tyler Van Gorder](tkvangorder@users.noreply.github.com)
 * [Jonathan Schneider](jkschneider@gmail.com)
 * [nbruno](nbruno@users.noreply.github.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 * [Aaron Gershman](aegershman@gmail.com)
 
 

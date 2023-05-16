@@ -15,7 +15,7 @@ _Removes superfluous `@Repository` annotation from Spring Data `Repository` sub-
 ## Contributors
 * [Alex Boyko](aboyko@vmware.com)
 * [Knut Wannheden](knut@moderne.io)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 
 
 ## Usage

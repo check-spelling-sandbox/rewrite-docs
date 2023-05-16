@@ -16,7 +16,7 @@ _As of 5.0 `SkipListener` has default methods (made possible by a Java 8 baselin
 * [pdesprez](35764353+desprez@users.noreply.github.com)
 * [Sam Snyder](sam@moderne.io)
 * [Jonathan Schnéider](jkschneider@gmail.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 
 
 ## Usage

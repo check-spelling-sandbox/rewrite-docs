@@ -19,7 +19,7 @@ _Migrate properties found in `application.properties` and `application.yml`._
 
 ## Contributors
 * [Tyler Van Gorder](tkvangorder@users.noreply.github.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 * [Patrick](patway99@gmail.com)
 * [Kyle Scully](scullykns@gmail.com)
 

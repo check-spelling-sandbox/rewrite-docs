@@ -15,7 +15,7 @@ _Migrate `RestTemplateBuilder#requestFactory` calls to use a `Supplier`. See the
 ## Contributors
 * [Patrick Way](pway99@users.noreply.github.com)
 * [Jonathan Schneider](jkschneider@gmail.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 * [Patrick](patway99@gmail.com)
 * [Aaron Gershman](aegershman@gmail.com)
 

@@ -15,7 +15,7 @@ _Migrate applications to the latest Spring Framework 5.2 release._
 ## Contributors
 * [Patrick](patway99@gmail.com)
 * [Jonathan Schneider](jkschneider@gmail.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 * [Aaron Gershman](aegershman@gmail.com)
 
 

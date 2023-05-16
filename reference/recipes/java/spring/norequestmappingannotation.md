@@ -22,7 +22,7 @@ _Replace method declaration `@RequestMapping` annotations with `@GetMapping`, `@
 * [Tyler Van Gorder](tkvangorder@users.noreply.github.com)
 * [traceyyoshima](tracey.yoshima@gmail.com)
 * [Patrick](patway99@gmail.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 * [Aaron Gershman](aegershman@gmail.com)
 
 

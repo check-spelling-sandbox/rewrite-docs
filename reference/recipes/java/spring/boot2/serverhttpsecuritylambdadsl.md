@@ -15,7 +15,7 @@ _Converts `ServerHttpSecurity` chained call from Spring Security pre 5.2.x into 
 ## Contributors
 * [Alex Boyko](aboyko@vmware.com)
 * [Knut Wannheden](knut@moderne.io)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 
 
 ## Usage

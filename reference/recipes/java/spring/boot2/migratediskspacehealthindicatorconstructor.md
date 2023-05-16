@@ -15,7 +15,7 @@ _`DiskSpaceHealthIndicator(File, long)` was deprecated in Spring Data 2.1 for re
 ## Contributors
 * [traceyyoshima](tracey.yoshima@gmail.com)
 * [Jonathan Schneider](jkschneider@gmail.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 
 
 ## Usage

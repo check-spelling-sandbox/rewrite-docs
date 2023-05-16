@@ -14,7 +14,7 @@ _As of Spring Security 6.0 the SHA-256 algorithm is the default for the encoding
 
 ## Contributors
 * [Knut Wannheden](knut@moderne.io)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 
 
 ## Usage

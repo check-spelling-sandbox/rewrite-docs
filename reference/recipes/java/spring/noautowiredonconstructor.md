@@ -16,7 +16,7 @@ _Spring can infer an autowired constructor when there is a single constructor on
 * [Tracey Yoshima](tracey.yoshima@gmail.com)
 * [Sam Snyder](sam@moderne.io)
 * [Jonathan Schnéider](jkschneider@gmail.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 * [Aaron Gershman](aegershman@gmail.com)
 
 

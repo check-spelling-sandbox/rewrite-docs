@@ -15,7 +15,7 @@ _Use `WebServerFactoryCustomizer` instead of the deprecated `EmbeddedServletCont
 ## Contributors
 * [Tyler Van Gorder](tkvangorder@users.noreply.github.com)
 * [Jonathan Schneider](jkschneider@gmail.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 
 
 ## Usage

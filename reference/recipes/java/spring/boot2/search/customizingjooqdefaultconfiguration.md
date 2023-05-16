@@ -15,7 +15,7 @@ _To streamline the customization of jOOQ’s `DefaultConfiguration`, a bean that
 ## Contributors
 * [Fabian Krüger](56278322+fabapp2@users.noreply.github.com)
 * [Jonathan Schneider](jkschneider@gmail.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 
 
 ## Usage

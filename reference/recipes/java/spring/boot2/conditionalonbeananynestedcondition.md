@@ -17,7 +17,7 @@ _Migrate multi-condition `@ConditionalOnBean` annotations to `AnyNestedCondition
 * [Jonathan Schneider](jkschneider@gmail.com)
 * [Knut Wannheden](knut@moderne.io)
 * [Sam Snyder](sam@moderne.io)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 * [Aaron Gershman](aegershman@gmail.com)
 
 

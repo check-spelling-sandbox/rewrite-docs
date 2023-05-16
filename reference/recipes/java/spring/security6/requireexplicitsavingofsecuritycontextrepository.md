@@ -15,7 +15,7 @@ _Remove explicit `SecurityContextConfigurer.requireExplicitSave(true)` opt-in as
 ## Contributors
 * [Knut Wannheden](knut@moderne.io)
 * [Kun Li](122563761+kunli2@users.noreply.github.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 
 
 ## Usage

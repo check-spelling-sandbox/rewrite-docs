@@ -22,7 +22,7 @@ _Migrate applications to the latest Spring Boot 2.4 release. This recipe will mo
 * [Patrick](patway99@gmail.com)
 * [Sam Snyder](sam@moderne.io)
 * [Aaron Gershman](aegershman@gmail.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 * [Jonathan Schnéider](jkschneider@gmail.com)
 * [Knut Wannheden](knut@moderne.io)
 

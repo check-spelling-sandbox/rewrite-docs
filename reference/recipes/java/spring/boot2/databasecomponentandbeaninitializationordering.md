@@ -15,7 +15,7 @@ _Beans of certain well-known types, such as `JdbcTemplate`, will be ordered so t
 ## Contributors
 * [Fabian Krüger](56278322+fabapp2@users.noreply.github.com)
 * [Jonathan Schneider](jkschneider@gmail.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 * [Patrick](patway99@gmail.com)
 
 

@@ -15,7 +15,7 @@ _`RestTemplateBuilder#setConnectTimeout(int)` and `RestTemplateBuilder#setReadTi
 ## Contributors
 * [traceyyoshima](tracey.yoshima@gmail.com)
 * [Jonathan Schneider](jkschneider@gmail.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 
 
 ## Usage

@@ -26,7 +26,7 @@ _Applies best practices to Spring Boot 2 applications._
 * [Sam Snyder](sam@moderne.io)
 * [Tracey Yoshima](tracey.yoshima@gmail.com)
 * [traceyyoshima](tracey.yoshima@gmail.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 * [Aaron Gershman](aegershman@gmail.com)
 * [Knut Wannheden](knut@moderne.io)
 * [Jonathan Schnéider](jkschneider@gmail.com)

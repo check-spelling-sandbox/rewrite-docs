@@ -17,7 +17,7 @@ _As of Boot 3.0 `@ConstructorBinding` is no longer needed at the type level on `
 * [BoykoAlex](aboyko@pivotal.io)
 * [Jonathan Schnéider](jkschneider@gmail.com)
 * [Knut Wannheden](knut@moderne.io)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 
 
 ## Usage

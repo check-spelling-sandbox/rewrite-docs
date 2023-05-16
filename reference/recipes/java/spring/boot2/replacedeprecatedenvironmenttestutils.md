@@ -18,7 +18,7 @@ _Replaces any references to the deprecated `EnvironmentTestUtils` with `TestProp
 * [Sam Snyder](sam@moderne.io)
 * [Aaron Gershman](aegershman@gmail.com)
 * [Patrick](patway99@gmail.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 
 
 ## Usage

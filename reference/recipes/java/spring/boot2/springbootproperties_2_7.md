@@ -19,7 +19,7 @@ _Migrate applications to the latest Spring Boot 2.7 release. This recipe will mo
 
 ## Contributors
 * [Tyler Van Gorder](tkvangorder@users.noreply.github.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 * [Patrick](patway99@gmail.com)
 * [Sandeep Nagaraj](59915704+sanagaraj-pivotal@users.noreply.github.com)
 * [Kyle Scully](scullykns@gmail.com)

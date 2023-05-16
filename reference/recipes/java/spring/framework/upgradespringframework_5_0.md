@@ -16,7 +16,7 @@ _Migrate applications to the latest Spring Framework 5.0 release._
 * [Patrick Way](pway99@users.noreply.github.com)
 * [Jonathan Schnéider](jkschneider@gmail.com)
 * [Kyle Scully](scullykns@gmail.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 
 
 ## Usage

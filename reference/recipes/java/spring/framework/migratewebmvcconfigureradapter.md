@@ -16,7 +16,7 @@ _As of 5.0 `WebMvcConfigurer` has default methods (made possible by a Java 8 bas
 * [Patrick Way](pway99@users.noreply.github.com)
 * [Jonathan Schnéider](jkschneider@gmail.com)
 * [Kyle Scully](scullykns@gmail.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 
 
 ## Usage

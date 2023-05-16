@@ -15,7 +15,7 @@ _In Spring Security 5.8 some `Argon2PasswordEncoder` constructors have been depr
 ## Contributors
 * [Knut Wannheden](knut@moderne.io)
 * [Jonathan Schnéider](jkschneider@gmail.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 
 
 ## Usage

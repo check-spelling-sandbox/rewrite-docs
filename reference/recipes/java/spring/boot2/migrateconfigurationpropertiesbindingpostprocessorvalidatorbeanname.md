@@ -18,7 +18,7 @@ _Replaces field and static access of `ConfigurationPropertiesBindingPostProcesso
 * [traceyyoshima](tracey.yoshima@gmail.com)
 * [Patrick](patway99@gmail.com)
 * [Knut Wannheden](knut@moderne.io)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 
 
 ## Usage

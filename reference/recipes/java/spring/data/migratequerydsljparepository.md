@@ -16,7 +16,7 @@ _`QuerydslJpaRepository<T, ID extends Serializable>` was deprecated in Spring Da
 * [Tracey Yoshima](tracey.yoshima@gmail.com)
 * [Jonathan Schneider](jkschneider@gmail.com)
 * [Patrick](patway99@gmail.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 * [Tim te Beek](tim@moderne.io)
 
 

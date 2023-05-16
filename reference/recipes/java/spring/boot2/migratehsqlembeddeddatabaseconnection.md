@@ -17,7 +17,7 @@ _Spring-Boot `EmbeddedDatabaseConnection.HSQL` was deprecated in favor of `Embed
 * [Sam Snyder](sam@moderne.io)
 * [traceyyoshima](tracey.yoshima@gmail.com)
 * [Knut Wannheden](knut@moderne.io)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 * [Aaron Gershman](aegershman@gmail.com)
 
 

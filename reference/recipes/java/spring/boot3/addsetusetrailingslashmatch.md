@@ -15,7 +15,7 @@ _This is part of Spring MVC and WebFlux URL Matching Changes, as of Spring Frame
 ## Contributors
 * [Kun Li](122563761+kunli2@users.noreply.github.com)
 * [Jonathan Schnéider](jkschneider@gmail.com)
-* [Nick McKinney](mckinneynichoals@gmail.com)
+* [Nick McKinney](mckinneynicholas@gmail.com)
 
 
 ## Usage
