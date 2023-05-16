@@ -14,7 +14,7 @@ NOTE: If `markAllAsTransient` is set to `true`, this recipe will mark all non-se
 
 NOTE: Any fullyQualified names listed in the `fullyQualifiedExclusions` will be marked as transient, even if that SourceFile exists in the same project.
 
-NOTE: This recipe does NOT recursively modify newly `Serilazable` classes to cut down on the graph of SourceFiles that may be impacted during a recipe run._
+NOTE: This recipe does NOT recursively modify newly `Serializable` classes to cut down on the graph of SourceFiles that may be impacted during a recipe run._
 
 ### Tags
 
