@@ -22,7 +22,7 @@ _Removes a single managed dependency from the <dependencyManagement><dependencie
 | -- | -- | -- |
 | `String` | groupId | The first part of a managed dependency coordinate 'com.google.guava:guava:VERSION'. |
 | `String` | artifactId | The second part of a managed dependency coordinate 'com.google.guava:guava:VERSION'. |
-| `String` | scope | *Optional*. Only remove managed dependencies if they are in this scope. If 'runtime', this willalso remove managed dependencies in the 'compile' scope because 'compile' dependencies are part of the runtime dependency set |
+| `String` | scope | *Optional*. Only remove managed dependencies if they are in this scope. If 'runtime', this will also remove managed dependencies in the 'compile' scope because 'compile' dependencies are part of the runtime dependency set |
 
 
 ## Usage
