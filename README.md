@@ -16,6 +16,8 @@ We encourage you to contribute to our docs! Please feel free to create an issue 
 
 We use [GitBook](https://www.gitbook.com/) to manage our documentation. When any changes are merged into this directory, a build is kicked off to update the GitBook docs. Please see the [contributing guide](https://github.com/openrewrite/.github/blob/main/CONTRIBUTING.md) for detailed instructions on how to get started.
 
+staticanalysis
+
 ## Standards
 
 * In document titles and headers, use sentence case. That is, capitalize only the first word in the title, the first word in a subheading after a colon, and any proper nouns or other terms that are always capitalized a certain way. Don't put a period at the end of a title or heading.
