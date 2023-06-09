@@ -18,6 +18,7 @@ We use [GitBook](https://www.gitbook.com/) to manage our documentation. When any
 
 staticanalysis
 
+
 ## Standards
 
 * In document titles and headers, use sentence case. That is, capitalize only the first word in the title, the first word in a subheading after a colon, and any proper nouns or other terms that are always capitalized a certain way. Don't put a period at the end of a title or heading.
